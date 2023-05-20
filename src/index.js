@@ -14,7 +14,7 @@ root.render(
       <h2>
         <Weather />
       </h2>
-      <div className="link-block">Open-sourse code by Hanna Tsubulska available at <a href="/" className="link">GitHub</a></div>
+      <div className="link-block">Open-sourse code by Hanna Tsubulska available at <a href="https://github.com/AnnaMangust/react-app-week-4" target="blank" className="link">GitHub</a></div>
     </div>
   </StrictMode>
 );
